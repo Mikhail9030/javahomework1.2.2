@@ -1,4 +1,4 @@
-public class Main {
+public class MainV1 {
     public static void main(String[] args) {
         double regularBonus = 0.3;
         double specialBonus = 0.6;
